@@ -181,6 +181,7 @@ header .block-search .block-inner .box-search #top-search .search-form-label {
 
 header .block-search .block-inner .box-search #top-search .search-form-label #search {
     height: 36px;
+    outline: none;
     width: 100%;
     color: #000000;
     display: block;
@@ -189,6 +190,7 @@ header .block-search .block-inner .box-search #top-search .search-form-label #se
     border: 0;
 }
 header .block-search .block-inner .box-search #top-search .search-form-label .icon {
+    outline: rgb(201, 198, 198);
     color: #fff;
     width: 14%;
     text-align: center;
